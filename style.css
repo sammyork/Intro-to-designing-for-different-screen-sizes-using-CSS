@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: rgb(243, 243, 196);
+    }
+}
+@media screen and (min-width: 601px) {
+    body {
+      background-color: rgb(173, 185, 236);
+    }
+}
